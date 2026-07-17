@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="744" height="24" viewBox="0 0 744 24" role="img" aria-label="AI Research, LLM Inference, Multi-Agent, Kubernetes, Self-Hosted, Embedded Security">
+<g font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="500">
+<rect x="0" y="0" width="109" height="24" rx="6" fill="#22272e"/>
+<circle cx="11" cy="12" r="3" fill="#2dd4bf"/>
+<text x="22" y="16" fill="#cdd9e5">AI Research</text>
+<rect x="117" y="0" width="123" height="24" rx="6" fill="#22272e"/>
+<circle cx="128" cy="12" r="3" fill="#2dd4bf"/>
+<text x="139" y="16" fill="#cdd9e5">LLM Inference</text>
+<rect x="248" y="0" width="109" height="24" rx="6" fill="#22272e"/>
+<circle cx="259" cy="12" r="3" fill="#2dd4bf"/>
+<text x="270" y="16" fill="#cdd9e5">Multi-Agent</text>
+<rect x="365" y="0" width="103" height="24" rx="6" fill="#22272e"/>
+<circle cx="376" cy="12" r="3" fill="#2dd4bf"/>
+<text x="387" y="16" fill="#cdd9e5">Kubernetes</text>
+<rect x="476" y="0" width="109" height="24" rx="6" fill="#22272e"/>
+<circle cx="487" cy="12" r="3" fill="#2dd4bf"/>
+<text x="498" y="16" fill="#cdd9e5">Self-Hosted</text>
+<rect x="593" y="0" width="151" height="24" rx="6" fill="#22272e"/>
+<circle cx="604" cy="12" r="3" fill="#2dd4bf"/>
+<text x="615" y="16" fill="#cdd9e5">Embedded Security</text>
+</g></svg>
