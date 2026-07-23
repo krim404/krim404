@@ -17,6 +17,7 @@ Beyond that I run a complete self-hosted stack and act as the IT service for fri
 <img src="assets/skills.svg" alt="AI Research, LLM Inference, Multi-Agent, Kubernetes, Self-Hosted, Embedded Security">
 
 ### Elsewhere
+- **ZAD**: https://www.uni-giessen.de/zad/
 - **LinkedIn**: https://www.linkedin.com/in/chrisuhl/
 - **krim.dev**: my self-hosted playground and services
 
